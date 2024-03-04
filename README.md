@@ -8,4 +8,4 @@ The dashboard categorizes players into different roles such as batsman, bowler, 
 Each category is represented visually, displaying the distribution of players based on their roles.
 This section provides an in-depth analysis of each IPL team, including player composition, expenditure
 https://app.powerbi.com/groups/me/reports/238254af-6b8d-4d18-bb00-d0e7222df027/ReportSection?experience=power-bi
-<img width="508" alt="image" src="https://github.com/kd-1532/IPL-Auction-2024-Power-BI-Dashboard/assets/86095218/5d237981-7370-4b34-965c-b5a2ce726f0b">
+<style=max-width 100%; alt="image" src="https://github.com/kd-1532/IPL-Auction-2024-Power-BI-Dashboard/assets/86095218/5d237981-7370-4b34-965c-b5a2ce726f0b">
